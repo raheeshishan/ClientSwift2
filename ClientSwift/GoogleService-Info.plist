@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>904937773105-89n9iadvd4q2247rvo8mr0pa82gkm0im.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.904937773105-89n9iadvd4q2247rvo8mr0pa82gkm0im</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>904937773105-kptirc41u9q7ksg0dsorsp3iklq3uo4t.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDIZ0AbcXhMizwE5Rj4WDGtkLli8-bJB0A</string>
+	<key>GCM_SENDER_ID</key>
+	<string>904937773105</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.pacifyr.mainapp</string>
+	<key>PROJECT_ID</key>
+	<string>pacifyr-4049b</string>
+	<key>STORAGE_BUCKET</key>
+	<string>pacifyr-4049b.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:904937773105:ios:bdda3d9cc3b5b206</string>
+	<key>DATABASE_URL</key>
+	<string>https://pacifyr-4049b.firebaseio.com</string>
+</dict>
+</plist>
